@@ -58,10 +58,10 @@ connection.execute(f'''
         {dataframe["time"].mean()},
         {dataframe["time"].min()},
         {dataframe["time"].max()}
-    )
+    );
 ''')
 
-cursor = connection.execute("SELECT * FROM metrics")
+cursor = connection.execute("SELECT * FROM metrics DESC LIMIT 10;")
 rows = cursor.fetchall()
 for row in rows:
     print("Time metrics: ")
