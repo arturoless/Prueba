@@ -51,6 +51,7 @@ def show_dataframe(dataframe: DataFrame)-> None:
     webbrowser.open("index.html")
 
 dataframe = pd.DataFrame(formatted_countries)
+
 connection.execute(f'''
     INSERT INTO metrics (sum, average, minimum, maximum) VALUES(
         {dataframe["time"].sum()},
@@ -63,7 +64,11 @@ connection.execute(f'''
 cursor = connection.execute("SELECT * FROM metrics")
 rows = cursor.fetchall()
 for row in rows:
-    print(row)
+    print("Time metrics: ")
+    print(f"Sum {row[0]}")
+    print(f"Average {row[1]}")
+    print(f"Minimum {row[2]}")
+    print(f"Maximum {row[3]}")
 
 with open('data.json', 'w') as convert_file:
     convert_file.write(json.dumps(formatted_countries))
