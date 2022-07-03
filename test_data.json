@@ -1,44 +1,1502 @@
 [
     {
-    "region": "Europe",
-    "country": "Republic of Cyprus",
-    "language": "59d5f5b13f13f6d5e8e88a5a92e137f7d64b2954",
-    "time": 0.02
+        "region": "Europe",
+        "country": "Republic of Cyprus",
+        "language": "59d5f5b13f13f6d5e8e88a5a92e137f7d64b2954",
+        "time": 1.7182999872602522
     },
     {
-    "region": "Europe",
-    "country": "Republic of North Macedonia",
-    "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-    "time": 0.03
+        "region": "Europe",
+        "country": "Republic of North Macedonia",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0109999964479357
     },
     {
-    "region": "Asia",
-    "country": "Republic of Yemen",
-    "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-    "time": 0.02
+        "region": "Asia",
+        "country": "Republic of Yemen",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.00300002284348011
     },
     {
-    "region": "Americas",
-    "country": "Sint Maarten",
-    "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
-    "time": 0.05
+        "region": "Americas",
+        "country": "Sint Maarten",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.003600027412176132
     },
     {
-    "region": "Asia",
-    "country": "Macao Special Administrative Region of the People's Republic of China",
-    "language": "23882c575954a0789bf02aba9e6dd01f539bc738",
-    "time": 0.06
+        "region": "Asia",
+        "country": "Macao Special Administrative Region of the People's Republic of China",
+        "language": "23882c575954a0789bf02aba9e6dd01f539bc738",
+        "time": 0.002800021320581436
     },
     {
-    "region": "Africa",
-    "country": "Federal Republic of Nigeria",
-    "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-    "time": 0.01
+        "region": "Africa",
+        "country": "Federal Republic of Nigeria",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0029999937396496534
     },
     {
-    "region": "Africa",
-    "country": "Federal Republic of Somalia",
-    "language": "af4f4762f9bd3f0f4a10caf5b6e63dc4ce543724",
-    "time": 0.04
+        "region": "Africa",
+        "country": "Federal Republic of Somalia",
+        "language": "af4f4762f9bd3f0f4a10caf5b6e63dc4ce543724",
+        "time": 0.002600019797682762
+    },
+    {
+        "region": "Asia",
+        "country": "Republic of the Union of Myanmar",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0024999899324029684
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of Liberia",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0023999891709536314
+    },
+    {
+        "region": "Americas",
+        "country": "Commonwealth of Dominica",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0028999929782003164
+    },
+    {
+        "region": "Americas",
+        "country": "Federation of Saint Christopher and Nevis",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002400018274784088
+    },
+    {
+        "region": "Asia",
+        "country": "Democratic People's Republic of Korea",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0021999876480549574
+    },
+    {
+        "region": "Asia",
+        "country": "Kingdom of Saudi Arabia",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0022999884095042944
+    },
+    {
+        "region": "Asia",
+        "country": "Federal Democratic Republic of Nepal",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002300017513334751
+    },
+    {
+        "region": "Americas",
+        "country": "Bolivarian Republic of Venezuela",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0024999899324029684
+    },
+    {
+        "region": "Oceania",
+        "country": "Guam",
+        "language": "a08119acc386f5b2c0e1f419f04c9d9a60a37579",
+        "time": 0.0024999899324029684
+    },
+    {
+        "region": "Americas",
+        "country": "Bermuda",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002200016751885414
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of Kenya",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.0025999906938523054
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of Cameroon",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.0024999899324029684
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of Rwanda",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.0024999899324029684
+    },
+    {
+        "region": "Africa",
+        "country": "Islamic Republic of Mauritania",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002500019036233425
+    },
+    {
+        "region": "Oceania",
+        "country": "New Caledonia",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0022999884095042944
+    },
+    {
+        "region": "Oceania",
+        "country": "Republic of Fiji",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.0026999914553016424
+    },
+    {
+        "region": "Americas",
+        "country": "Argentine Republic",
+        "language": "2e01814f61f8a3d0cc2295059d56fff9b8c17f3a",
+        "time": 0.0028999929782003164
+    },
+    {
+        "region": "Asia",
+        "country": "Nation of Brunei, Abode of Peace",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002400018274784088
+    },
+    {
+        "region": "Americas",
+        "country": "Republic of Nicaragua",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0021999876480549574
+    },
+    {
+        "region": "Europe",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0022999884095042944
+    },
+    {
+        "region": "Asia",
+        "country": "Lao People's Democratic Republic",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002300017513334751
+    },
+    {
+        "region": "Oceania",
+        "country": "Republic of the Marshall Islands",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.002600019797682762
+    },
+    {
+        "region": "Europe",
+        "country": "Ukraine",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0022999884095042944
+    },
+    {
+        "region": "Europe",
+        "country": "Isle of Man",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.0033999967854470015
+    },
+    {
+        "region": "Asia",
+        "country": "State of Kuwait",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0022999884095042944
+    },
+    {
+        "region": "Americas",
+        "country": "Antigua and Barbuda",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002400018274784088
+    },
+    {
+        "region": "Europe",
+        "country": "Kingdom of the Netherlands",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0022999884095042944
+    },
+    {
+        "region": "Oceania",
+        "country": "Republic of Palau",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.0024999899324029684
+    },
+    {
+        "region": "Oceania",
+        "country": "New Zealand",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.0025999906938523054
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of the Congo",
+        "language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "time": 0.002500019036233425
+    },
+    {
+        "region": "Americas",
+        "country": "Virgin Islands",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0026999914553016424
+    },
+    {
+        "region": "Asia",
+        "country": "Kingdom of Bahrain",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0021999876480549574
+    },
+    {
+        "region": "Americas",
+        "country": "Plurinational State of Bolivia",
+        "language": "b92b66b38efcefc646b9b298d3438a6bad54de35",
+        "time": 0.002500019036233425
+    },
+    {
+        "region": "Africa",
+        "country": "Togolese Republic",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0022999884095042944
+    },
+    {
+        "region": "Asia",
+        "country": "Republic of Uzbekistan",
+        "language": "74ad93cbebf587ac46ab0ef1e3f24139ddd3f535",
+        "time": 0.0025999906938523054
+    },
+    {
+        "region": "Americas",
+        "country": "Commonwealth of the Bahamas",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0024999899324029684
+    },
+    {
+        "region": "Asia",
+        "country": "Republic of the Maldives",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0034999975468963385
+    },
+    {
+        "region": "Asia",
+        "country": "Turkmenistan",
+        "language": "74ad93cbebf587ac46ab0ef1e3f24139ddd3f535",
+        "time": 0.002500019036233425
+    },
+    {
+        "region": "Americas",
+        "country": "Oriental Republic of Uruguay",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0021999876480549574
+    },
+    {
+        "region": "Europe",
+        "country": "Republic of Bulgaria",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0022999884095042944
+    },
+    {
+        "region": "Africa",
+        "country": "Kingdom of Lesotho",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.002600019797682762
+    },
+    {
+        "region": "Americas",
+        "country": "Saint Pierre and Miquelon",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0030999945010989904
+    },
+    {
+        "region": "Americas",
+        "country": "Republic of Cuba",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0022999884095042944
+    },
+    {
+        "region": "Americas",
+        "country": "Republic of Haiti",
+        "language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "time": 0.0025999906938523054
+    },
+    {
+        "region": "Europe",
+        "country": "Republic of Malta",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.0025999906938523054
+    },
+    {
+        "region": "Oceania",
+        "country": "Kingdom of Tonga",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.002400018274784088
+    },
+    {
+        "region": "Americas",
+        "country": "Falkland Islands",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0022999884095042944
+    },
+    {
+        "region": "Africa",
+        "country": "Federal Democratic Republic of Ethiopia",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0022999884095042944
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of South Sudan",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002300017513334751
+    },
+    {
+        "region": "Africa",
+        "country": "Tunisian Republic",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0027999922167509794
+    },
+    {
+        "region": "Americas",
+        "country": "Commonwealth of Puerto Rico",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.0026999914553016424
+    },
+    {
+        "region": "Americas",
+        "country": "Republic of Ecuador",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0021999876480549574
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of Cabo Verde",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002300017513334751
+    },
+    {
+        "region": "Europe",
+        "country": "Principality of Monaco",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0022999884095042944
+    },
+    {
+        "region": "Asia",
+        "country": "Republic of Tajikistan",
+        "language": "74ad93cbebf587ac46ab0ef1e3f24139ddd3f535",
+        "time": 0.0023999891709536314
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of Botswana",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.002400018274784088
+    },
+    {
+        "region": "Antarctic",
+        "country": "Bouvet Island",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0022999884095042944
+    },
+    {
+        "region": "Asia",
+        "country": "Republic of Indonesia",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0021999876480549574
+    },
+    {
+        "region": "Europe",
+        "country": "Republic of Estonia",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002400018274784088
+    },
+    {
+        "region": "Asia",
+        "country": "State of Qatar",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002200016751885414
+    },
+    {
+        "region": "Americas",
+        "country": "Cayman Islands",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0023999891709536314
+    },
+    {
+        "region": "Europe",
+        "country": "Republic of Croatia",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002200016751885414
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of Zambia",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002300017513334751
+    },
+    {
+        "region": "Americas",
+        "country": "Guadeloupe",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0023999891709536314
+    },
+    {
+        "region": "Europe",
+        "country": "Romania",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0026999914553016424
+    },
+    {
+        "region": "Europe",
+        "country": "Faroe Islands",
+        "language": "9f9f264815f8de2fa0a0e756083fbbf633ed8ba1",
+        "time": 0.002400018274784088
+    },
+    {
+        "region": "Europe",
+        "country": "Republic of Moldova",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002300017513334751
+    },
+    {
+        "region": "Oceania",
+        "country": "Niue",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.0025999906938523054
+    },
+    {
+        "region": "Oceania",
+        "country": "Territory of the Wallis and Futuna Islands",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0022999884095042944
+    },
+    {
+        "region": "Oceania",
+        "country": "Pitcairn Group of Islands",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002200016751885414
+    },
+    {
+        "region": "Americas",
+        "country": "Barbados",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002300017513334751
+    },
+    {
+        "region": "Europe",
+        "country": "Bosnia and Herzegovina",
+        "language": "71d67418f341f2ca177be8a385287d08b2297a90",
+        "time": 0.0029999937396496534
+    },
+    {
+        "region": "Asia",
+        "country": "Republic of Korea",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0023999891709536314
+    },
+    {
+        "region": "Africa",
+        "country": "Burkina Faso",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002300017513334751
+    },
+    {
+        "region": "Americas",
+        "country": "Republic of El Salvador",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0022999884095042944
+    },
+    {
+        "region": "Asia",
+        "country": "Syrian Arab Republic",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0021999876480549574
+    },
+    {
+        "region": "Americas",
+        "country": "Republic of Colombia",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002300017513334751
+    },
+    {
+        "region": "Asia",
+        "country": "People's Republic of Bangladesh",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0023999891709536314
+    },
+    {
+        "region": "Americas",
+        "country": "Martinique",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0028999929782003164
+    },
+    {
+        "region": "Oceania",
+        "country": "Federated States of Micronesia",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0029999937396496534
+    },
+    {
+        "region": "Europe",
+        "country": "Kingdom of Sweden",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002300017513334751
+    },
+    {
+        "region": "Europe",
+        "country": "Hungary",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0024999899324029684
+    },
+    {
+        "region": "Antarctic",
+        "country": "Territory of the French Southern and Antarctic Lands",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0021999876480549574
+    },
+    {
+        "region": "Oceania",
+        "country": "Republic of Nauru",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.002400018274784088
+    },
+    {
+        "region": "Asia",
+        "country": "Republic of Iraq",
+        "language": "af4f4762f9bd3f0f4a10caf5b6e63dc4ce543724",
+        "time": 0.002500019036233425
+    },
+    {
+        "region": "Europe",
+        "country": "Republic of Poland",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0023999891709536314
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of Niger",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0025999906938523054
+    },
+    {
+        "region": "Europe",
+        "country": "Hellenic Republic",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0024999899324029684
+    },
+    {
+        "region": "Africa",
+        "country": "United Republic of Tanzania",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.002800021320581436
+    },
+    {
+        "region": "Africa",
+        "country": "Kingdom of Morocco",
+        "language": "af4f4762f9bd3f0f4a10caf5b6e63dc4ce543724",
+        "time": 0.00300002284348011
+    },
+    {
+        "region": "Europe",
+        "country": "Principality of Liechtenstein",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002500019036233425
+    },
+    {
+        "region": "Asia",
+        "country": "Democratic Republic of Timor-Leste",
+        "language": "23882c575954a0789bf02aba9e6dd01f539bc738",
+        "time": 0.0032999960239976645
+    },
+    {
+        "region": "Africa",
+        "country": "State of Eritrea",
+        "language": "af4f4762f9bd3f0f4a10caf5b6e63dc4ce543724",
+        "time": 0.0028999929782003164
+    },
+    {
+        "region": "Africa",
+        "country": "Department of Mayotte",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0026999914553016424
+    },
+    {
+        "region": "Europe",
+        "country": "French Republic",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0023999891709536314
+    },
+    {
+        "region": "Americas",
+        "country": "Republic of Honduras",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002700020559132099
+    },
+    {
+        "region": "Oceania",
+        "country": "Independent State of Samoa",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.0032999960239976645
+    },
+    {
+        "region": "Americas",
+        "country": "Greenland",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0026999914553016424
+    },
+    {
+        "region": "Europe",
+        "country": "Republic of Kosovo",
+        "language": "d71c45b3d8a817df46d53626270c2cc92e52793f",
+        "time": 0.0029999937396496534
+    },
+    {
+        "region": "Americas",
+        "country": "Anguilla",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0025999906938523054
+    },
+    {
+        "region": "Europe",
+        "country": "Republic of Serbia",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0031999952625483274
+    },
+    {
+        "region": "Europe",
+        "country": "Slovak Republic",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002700020559132099
+    },
+    {
+        "region": "Antarctic",
+        "country": "Heard Island and McDonald Islands",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002600019797682762
+    },
+    {
+        "region": "Oceania",
+        "country": "Independent and Sovereign Republic of Kiribati",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.0029999937396496534
+    },
+    {
+        "region": "Americas",
+        "country": "Montserrat",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0025999906938523054
+    },
+    {
+        "region": "Europe",
+        "country": "Kingdom of Spain",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0032999960239976645
+    },
+    {
+        "region": "Americas",
+        "country": "Belize",
+        "language": "6f12fb8dcfb8693257a67a6bd626dfd3f95a1a0e",
+        "time": 0.0028999929782003164
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of Seychelles",
+        "language": "0b5fb20ff92d014d0f4fd0af4df89af61d9f5610",
+        "time": 0.0029999937396496534
+    },
+    {
+        "region": "Africa",
+        "country": "Sahrawi Arab Democratic Republic",
+        "language": "ae47cf0153f22f97c4a3e621b0d35cc3d0cd33ca",
+        "time": 0.0032999960239976645
+    },
+    {
+        "region": "Europe",
+        "country": "Gibraltar",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002700020559132099
+    },
+    {
+        "region": "Asia",
+        "country": "Kingdom of Thailand",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0023999891709536314
+    },
+    {
+        "region": "Asia",
+        "country": "Socialist Republic of Vietnam",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0025999906938523054
+    },
+    {
+        "region": "Africa",
+        "country": "Saint Helena, Ascension and Tristan da Cunha",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0025999906938523054
+    },
+    {
+        "region": "Europe",
+        "country": "Republic of Austria",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0028999929782003164
+    },
+    {
+        "region": "Americas",
+        "country": "Saint Vincent and the Grenadines",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002700020559132099
+    },
+    {
+        "region": "Europe",
+        "country": "Principality of Andorra",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0025999906938523054
+    },
+    {
+        "region": "Europe",
+        "country": "Svalbard og Jan Mayen",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0025999906938523054
+    },
+    {
+        "region": "Oceania",
+        "country": "Territory of Norfolk Island",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.0028999929782003164
+    },
+    {
+        "region": "Americas",
+        "country": "Republic of Suriname",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002300017513334751
+    },
+    {
+        "region": "Asia",
+        "country": "Mongolia",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002600019797682762
+    },
+    {
+        "region": "Asia",
+        "country": "Kingdom of Bhutan",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0024999899324029684
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of Sierra Leone",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0029999937396496534
+    },
+    {
+        "region": "Asia",
+        "country": "Kingdom of Cambodia",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0034999975468963385
+    },
+    {
+        "region": "Africa",
+        "country": "People's Democratic Republic of Algeria",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0029999937396496534
+    },
+    {
+        "region": "Africa",
+        "country": "Gabonese Republic",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0025999906938523054
+    },
+    {
+        "region": "Asia",
+        "country": "Islamic Republic of Afghanistan",
+        "language": "b7170c9650504f20a45c9af2ee298530ce50177e",
+        "time": 0.00300002284348011
+    },
+    {
+        "region": "Asia",
+        "country": "Republic of Armenia",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0026999914553016424
+    },
+    {
+        "region": "Americas",
+        "country": "Saint Lucia",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0023999891709536314
+    },
+    {
+        "region": "Oceania",
+        "country": "Tuvalu",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.0028999929782003164
+    },
+    {
+        "region": "Americas",
+        "country": "Turks and Caicos Islands",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002500019036233425
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of Equatorial Guinea",
+        "language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "time": 0.002800021320581436
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of the Sudan",
+        "language": "af4f4762f9bd3f0f4a10caf5b6e63dc4ce543724",
+        "time": 0.0028999929782003164
+    },
+    {
+        "region": "Antarctic",
+        "country": "Antarctica",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0023999891709536314
+    },
+    {
+        "region": "Africa",
+        "country": "Democratic Republic of S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0026999914553016424
+    },
+    {
+        "region": "Europe",
+        "country": "Republic of Slovenia",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002500019036233425
+    },
+    {
+        "region": "Asia",
+        "country": "Hong Kong Special Administrative Region of the People's Republic of China",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.0026999914553016424
+    },
+    {
+        "region": "Africa",
+        "country": "R\u00e9union Island",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0026999914553016424
+    },
+    {
+        "region": "Americas",
+        "country": "Saint Martin",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0024999899324029684
+    },
+    {
+        "region": "Europe",
+        "country": "Republic of Latvia",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0026999914553016424
+    },
+    {
+        "region": "Americas",
+        "country": "Guiana",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002600019797682762
+    },
+    {
+        "region": "Asia",
+        "country": "Islamic Republic of Pakistan",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.0028999929782003164
+    },
+    {
+        "region": "Asia",
+        "country": "Republic of Azerbaijan",
+        "language": "68852895e0570a356c8af13b8388d1678a58501f",
+        "time": 0.0029999937396496534
+    },
+    {
+        "region": "Africa",
+        "country": "Union of the Comoros",
+        "language": "af4f4762f9bd3f0f4a10caf5b6e63dc4ce543724",
+        "time": 0.0028999929782003164
+    },
+    {
+        "region": "Asia",
+        "country": "Sultanate of Oman",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0026999914553016424
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of Senegal",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0024999899324029684
+    },
+    {
+        "region": "Americas",
+        "country": "Virgin Islands of the United States",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002700020559132099
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of Ghana",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0029999937396496534
+    },
+    {
+        "region": "Africa",
+        "country": "Central African Republic",
+        "language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "time": 0.0029999937396496534
+    },
+    {
+        "region": "Antarctic",
+        "country": "South Georgia and the South Sandwich Islands",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0026999914553016424
+    },
+    {
+        "region": "Oceania",
+        "country": "American Samoa",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.0028999929782003164
+    },
+    {
+        "region": "Asia",
+        "country": "State of Israel",
+        "language": "af4f4762f9bd3f0f4a10caf5b6e63dc4ce543724",
+        "time": 0.0035999983083456755
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of Zimbabwe",
+        "language": "23b05688ba85eedc18df5570fc05f98cf092bccc",
+        "time": 0.0037999998312443495
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of Burundi",
+        "language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "time": 0.0029999937396496534
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of Guinea-Bissau",
+        "language": "23882c575954a0789bf02aba9e6dd01f539bc738",
+        "time": 0.0026999914553016424
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of Malawi",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.006500020390376449
+    },
+    {
+        "region": "Americas",
+        "country": "United States of America",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0026999914553016424
+    },
+    {
+        "region": "Americas",
+        "country": "Republic of Panama",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0027999922167509794
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of Madagascar",
+        "language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "time": 0.0028999929782003164
+    },
+    {
+        "region": "Asia",
+        "country": "Georgia",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0025999906938523054
+    },
+    {
+        "region": "Europe",
+        "country": "Portuguese Republic",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0031999952625483274
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of Mali",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002600019797682762
+    },
+    {
+        "region": "Oceania",
+        "country": "Cook Islands",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.0028999929782003164
+    },
+    {
+        "region": "Europe",
+        "country": "Iceland",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0027999922167509794
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of Chad",
+        "language": "af4f4762f9bd3f0f4a10caf5b6e63dc4ce543724",
+        "time": 0.0028999929782003164
+    },
+    {
+        "region": "Asia",
+        "country": "Republic of Turkey",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0033999967854470015
+    },
+    {
+        "region": "Oceania",
+        "country": "Territory of Christmas Island",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0027999922167509794
+    },
+    {
+        "region": "Americas",
+        "country": "Republic of Costa Rica",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0030999945010989904
+    },
+    {
+        "region": "Europe",
+        "country": "Republic of Lithuania",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002500019036233425
+    },
+    {
+        "region": "Oceania",
+        "country": "Territory of the Cocos (Keeling) Islands",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.003300025127828121
+    },
+    {
+        "region": "Asia",
+        "country": "Republic of India",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.0028999929782003164
+    },
+    {
+        "region": "Africa",
+        "country": "Arab Republic of Egypt",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0026999914553016424
+    },
+    {
+        "region": "Europe",
+        "country": "Bailiwick of Jersey",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.0031999952625483274
+    },
+    {
+        "region": "Europe",
+        "country": "Vatican City State",
+        "language": "485b57adcc80650a0f376fe516e0ea35fef68007",
+        "time": 0.0028999929782003164
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of South Africa",
+        "language": "40604522f2257ffe29e86f4f4812290ed9c290b1",
+        "time": 0.0033999967854470015
+    },
+    {
+        "region": "Americas",
+        "country": "Jamaica",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.002700020559132099
+    },
+    {
+        "region": "Americas",
+        "country": "Federative Republic of Brazil",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002600019797682762
+    },
+    {
+        "region": "Europe",
+        "country": "Kingdom of Denmark",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0024999899324029684
+    },
+    {
+        "region": "Europe",
+        "country": "Kingdom of Belgium",
+        "language": "da91388c72d3e31da19dcd85c97374197748485d",
+        "time": 0.0029999937396496534
+    },
+    {
+        "region": "Americas",
+        "country": "Republic of Paraguay",
+        "language": "2e01814f61f8a3d0cc2295059d56fff9b8c17f3a",
+        "time": 0.0032999960239976645
+    },
+    {
+        "region": "Asia",
+        "country": "Republic of Kazakhstan",
+        "language": "b9fedaa07b209e1f7a9c2d83295a76fe49f3b49f",
+        "time": 0.0026999914553016424
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of Namibia",
+        "language": "40604522f2257ffe29e86f4f4812290ed9c290b1",
+        "time": 0.002700020559132099
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of C\u00f4te d'Ivoire",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0024999899324029684
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of Mauritius",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.0026999914553016424
+    },
+    {
+        "region": "Asia",
+        "country": "State of Palestine",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0026999914553016424
+    },
+    {
+        "region": "Europe",
+        "country": "Montenegro",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0026999914553016424
+    },
+    {
+        "region": "Africa",
+        "country": "British Indian Ocean Territory",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002700020559132099
+    },
+    {
+        "region": "Asia",
+        "country": "Malaysia",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.002900022082030773
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of Djibouti",
+        "language": "af4f4762f9bd3f0f4a10caf5b6e63dc4ce543724",
+        "time": 0.0028999929782003164
+    },
+    {
+        "region": "Oceania",
+        "country": "Solomon Islands",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0029999937396496534
+    },
+    {
+        "region": "Americas",
+        "country": "Co-operative Republic of Guyana",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0026999914553016424
+    },
+    {
+        "region": "Americas",
+        "country": "Country of Cura\u00e7ao",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.0027999922167509794
+    },
+    {
+        "region": "Asia",
+        "country": "Kyrgyz Republic",
+        "language": "5aea8700748f6946f70240cab14148a2c449ed9c",
+        "time": 0.00300002284348011
+    },
+    {
+        "region": "Asia",
+        "country": "Republic of the Philippines",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.002700020559132099
+    },
+    {
+        "region": "Oceania",
+        "country": "Independent State of Papua New Guinea",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.0032999960239976645
+    },
+    {
+        "region": "Americas",
+        "country": "Republic of Trinidad and Tobago",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0027999922167509794
+    },
+    {
+        "region": "Africa",
+        "country": "State of Libya",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0024999899324029684
+    },
+    {
+        "region": "Americas",
+        "country": "Aruba",
+        "language": "334a85f1b16e32b6ba9a69313c6f584edef482cc",
+        "time": 0.0029999937396496534
+    },
+    {
+        "region": "Europe",
+        "country": "Russian Federation",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0024999899324029684
+    },
+    {
+        "region": "Europe",
+        "country": "Federal Republic of Germany",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002600019797682762
+    },
+    {
+        "region": "Americas",
+        "country": "Grenada",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0024999899324029684
+    },
+    {
+        "region": "Americas",
+        "country": "Canada",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.0024999899324029684
+    },
+    {
+        "region": "Oceania",
+        "country": "French Polynesia",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0029999937396496534
+    },
+    {
+        "region": "Africa",
+        "country": "Kingdom of Eswatini",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.0028999929782003164
+    },
+    {
+        "region": "Asia",
+        "country": "Islamic Republic of Iran",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002500019036233425
+    },
+    {
+        "region": "Asia",
+        "country": "Japan",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0023999891709536314
+    },
+    {
+        "region": "Asia",
+        "country": "People's Republic of China",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0024999899324029684
+    },
+    {
+        "region": "Americas",
+        "country": "Collectivity of Saint Barth\u00e9lemy",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0029999937396496534
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of Angola",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0026999914553016424
+    },
+    {
+        "region": "Europe",
+        "country": "Republic of Ireland",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.002700020559132099
+    },
+    {
+        "region": "Europe",
+        "country": "Kingdom of Norway",
+        "language": "0b68ece2bf159cdc69e9e869cdb19a051ee591e6",
+        "time": 0.002800021320581436
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of Mozambique",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0025999906938523054
+    },
+    {
+        "region": "Asia",
+        "country": "Hashemite Kingdom of Jordan",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0025999906938523054
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of the Gambia",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0025999906938523054
+    },
+    {
+        "region": "Asia",
+        "country": "Republic of Singapore",
+        "language": "15dc18865567bcc98554a72a8036e1b64a8b85d5",
+        "time": 0.003200024366378784
+    },
+    {
+        "region": "Europe",
+        "country": "Republic of San Marino",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002700020559132099
+    },
+    {
+        "region": "Americas",
+        "country": "Republic of Chile",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0025999906938523054
+    },
+    {
+        "region": "Americas",
+        "country": "United States Minor Outlying Islands",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0025999906938523054
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of Benin",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0025999906938523054
+    },
+    {
+        "region": "Asia",
+        "country": "Democratic Socialist Republic of Sri Lanka",
+        "language": "0d8bc28bd230eae9445fec6a48931c7bdeb53ee1",
+        "time": 0.002800021320581436
+    },
+    {
+        "region": "Europe",
+        "country": "Republic of Belarus",
+        "language": "2c7205595032bf70cf7a8260e25275d136c5ea00",
+        "time": 0.0027999922167509794
+    },
+    {
+        "region": "Americas",
+        "country": "Bonaire, Sint Eustatius and Saba",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.0027999922167509794
+    },
+    {
+        "region": "Americas",
+        "country": "Republic of Peru",
+        "language": "b92b66b38efcefc646b9b298d3438a6bad54de35",
+        "time": 0.0027999922167509794
+    },
+    {
+        "region": "Europe",
+        "country": "Bailiwick of Guernsey",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.0025999906938523054
+    },
+    {
+        "region": "Europe",
+        "country": "\u00c5land Islands",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002500019036233425
+    },
+    {
+        "region": "Americas",
+        "country": "Dominican Republic",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0025999906938523054
+    },
+    {
+        "region": "Oceania",
+        "country": "Tokelau",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.0025999906938523054
+    },
+    {
+        "region": "Asia",
+        "country": "United Arab Emirates",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0027999922167509794
+    },
+    {
+        "region": "Oceania",
+        "country": "Commonwealth of Australia",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002500019036233425
+    },
+    {
+        "region": "Americas",
+        "country": "Republic of Guatemala",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002500019036233425
+    },
+    {
+        "region": "Asia",
+        "country": "Lebanese Republic",
+        "language": "af4f4762f9bd3f0f4a10caf5b6e63dc4ce543724",
+        "time": 0.0026999914553016424
+    },
+    {
+        "region": "Europe",
+        "country": "Grand Duchy of Luxembourg",
+        "language": "da91388c72d3e31da19dcd85c97374197748485d",
+        "time": 0.0027999922167509794
+    },
+    {
+        "region": "Europe",
+        "country": "Republic of Albania",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0022999884095042944
+    },
+    {
+        "region": "Oceania",
+        "country": "Republic of Vanuatu",
+        "language": "634aef873fe44c04677f04fefdffc8c6f585be83",
+        "time": 0.0034999975468963385
+    },
+    {
+        "region": "Africa",
+        "country": "Democratic Republic of the Congo",
+        "language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "time": 0.002800021320581436
+    },
+    {
+        "region": "Oceania",
+        "country": "Commonwealth of the Northern Mariana Islands",
+        "language": "dc5f634ff5098b1e190fa6eaf9368c1282f8e84f",
+        "time": 0.0026999914553016424
+    },
+    {
+        "region": "Europe",
+        "country": "Czech Republic",
+        "language": "eea467c6cfe01f36237780838f0a1cff68eb889d",
+        "time": 0.0025999906938523054
+    },
+    {
+        "region": "Europe",
+        "country": "Italian Republic",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0024999899324029684
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of Uganda",
+        "language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "time": 0.002700020559132099
+    },
+    {
+        "region": "Europe",
+        "country": "Swiss Confederation",
+        "language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "time": 0.0025999906938523054
+    },
+    {
+        "region": "Americas",
+        "country": "United Mexican States",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0022999884095042944
+    },
+    {
+        "region": "Asia",
+        "country": "Republic of China (Taiwan)",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.002300017513334751
+    },
+    {
+        "region": "Africa",
+        "country": "Republic of Guinea",
+        "language": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "time": 0.0024999899324029684
+    },
+    {
+        "region": "Europe",
+        "country": "Republic of Finland",
+        "language": "57eef27b1643e8b06fcc0444b2a3519d01b2cef8",
+        "time": 0.0026999914553016424
     }
 ]

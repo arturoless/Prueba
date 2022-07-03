@@ -2,13 +2,13 @@ from ctypes import Union
 import sqlite3
 from sqlite3 import Connection, Error
 
-class DatabaseConnection:
+class DatabaseConnection(object):
     """Singleton Class to manage connection to sqlite database."""
 
     def __new__(cls):
         if not hasattr(cls, 'instance'):
             cls.instance = super(DatabaseConnection, cls).__new__(cls)
-            return cls.instance
+        return cls.instance
 
     def connect(self, database_url: str)-> Connection:
         """Create connection with database url.

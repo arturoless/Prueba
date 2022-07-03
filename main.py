@@ -7,8 +7,8 @@ import pandas as pd
 from pandas import DataFrame
 from database import DatabaseConnection
 
-connection = DatabaseConnection()
-connection = connection.connect(r"database.db")
+database_connection = DatabaseConnection()
+connection = database_connection.connect(r"database.db")
 connection.execute('''CREATE TABLE IF NOT EXISTS metrics (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     sum REAL NOT NULL,
@@ -69,9 +69,10 @@ for row in rows:
     print(f"Average {row[1]}")
     print(f"Minimum {row[2]}")
     print(f"Maximum {row[3]}")
+    
+database_connection.disconnect()
 
 with open('data.json', 'w') as convert_file:
-    convert_file.write(json.dumps(formatted_countries))
-    
+    convert_file.write(json.dumps(formatted_countries, indent=4))
 show_dataframe(dataframe)
 
