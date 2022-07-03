@@ -60,15 +60,17 @@ connection.execute(f'''
         {dataframe["time"].max()}
     );
 ''')
+connection.commit()
 
-cursor = connection.execute("SELECT * FROM metrics DESC LIMIT 10;")
+cursor = connection.execute("SELECT * FROM metrics ORDER BY id DESC LIMIT 10;")
 rows = cursor.fetchall()
 for row in rows:
+    print(f"Metric ID: {row[0]} ------------------------")
     print("Time metrics: ")
-    print(f"Sum {row[0]}")
-    print(f"Average {row[1]}")
-    print(f"Minimum {row[2]}")
-    print(f"Maximum {row[3]}")
+    print(f"Sum {row[1]}")
+    print(f"Average {row[2]}")
+    print(f"Minimum {row[3]}")
+    print(f"Maximum {row[4]}")
     
 database_connection.disconnect()
 
